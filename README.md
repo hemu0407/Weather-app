@@ -40,14 +40,14 @@ const apiKey = 'YOUR_API_KEY';
 
 weather-app/
 │                                                                 
-├── index.html          # Main HTML structure
-├── styles.css          # Styling for the weather app
-├── app.js              # JavaScript to fetch and display weather data
-├── images/             # Icons for weather, humidity, and wind
-│   ├── rain.png
-│   ├── humidity.png
-│   └── wind.png
-└── README.md           # Project documentation
+├── index.html         
+├── styles.css                  
+├── app.js                        
+├── images/             
+│   ├── rain.png                   
+│   ├── humidity.png               
+│   └── wind.png               
+└── README.md                      
 
 -----------------------------------------------------------------------------------------------------
 
