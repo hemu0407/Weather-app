@@ -11,7 +11,7 @@ This is a simple weather application that allows users to get the current weathe
 
 ## Live Demo
 
-You can access the live version of this project here: [Weather App on GitHub Pages](https://your-github-username.github.io/weather-app)
+You can access the live version of this project here: [Weather App on GitHub Pages](https://hemu0407.github.io/Weather-app/)
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ You need an API key from [OpenWeatherMap](https://home.openweathermap.org/users/
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-github-username/weather-app.git
+   git clone https://github.com/hemu0407/Weather-app.git
 cd weather-app
 const apiKey = 'YOUR_API_KEY';
 ----------------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ weather-app/
 
 ### Instructions for Usage:
 1. Replace the placeholder URL in the **Live Demo** section with the correct GitHub Pages link after you upload the app.
-2. Replace `your-github-username` with your actual GitHub username.
+2. Replace `hemu0407` with your actual GitHub username.
 3. Make sure to insert your **OpenWeatherMap API Key** in the `app.js` file before deploying or testing the app.
 
 This `README.md` will help guide anyone who visits your repository to understand the project and how to use it.
