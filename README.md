@@ -38,7 +38,7 @@ cd weather-app
 const apiKey = 'YOUR_API_KEY';
 ----------------------------------------------------------------------------------------------------
 
-weather-app/
+weather-app/               
 │                                                                 
 ├── index.html         
 ├── styles.css                  
