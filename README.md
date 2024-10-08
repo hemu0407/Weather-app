@@ -39,7 +39,7 @@ const apiKey = 'YOUR_API_KEY';
 ----------------------------------------------------------------------------------------------------
 
 weather-app/
-│
+│                                                                 
 ├── index.html          # Main HTML structure
 ├── styles.css          # Styling for the weather app
 ├── app.js              # JavaScript to fetch and display weather data
